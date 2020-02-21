@@ -1,0 +1,23 @@
+body {
+  background-color: tomato;
+}
+h1 {
+  color: White;
+}
+p {
+  color: red;
+  border: 1px solid red;
+  padding: 30px;
+  margin: 50px;
+}
+form { 
+    background-color: #eee;
+    padding: 10px; margin-bottom: 30px;
+} 
+ input {
+    margin-bottom: 6px; font-size: 23px; color: gray;
+}
+
+label {
+    font-weight: bold; font-size: 20px;
+}
